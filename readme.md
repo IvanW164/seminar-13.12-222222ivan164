@@ -30,4 +30,4 @@ $ git init
 
 (тут и add, и status, и commit)
  
- new 1  
+ new 1  2323
