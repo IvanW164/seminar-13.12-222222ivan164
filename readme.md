@@ -206,3 +206,15 @@ git reset --hard HEAD
 
 git reset --hard ORIG_HEAD
 
+## Удаление веток
+
+Удаляет ветку, если та была залита (merged) с 
+
+разрешением возможных конфликтов в текущую:
+
+git branch -d new-branch
+
+Удаляет ветку в любом случае:
+
+git branch -D new-branch
+
